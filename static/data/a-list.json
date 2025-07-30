@@ -7,7 +7,7 @@
   {
     "name": "JuliusAI",
     "imageUrl": "/assets/img/gpt.webp",
-    "url": "openAg('https://julius.ai/ai-chatbot')"
+    "url": "openAg('https://schoolbox.ljbc.wa.edu.au/')"
   },
   {
     "name": "Gemini",
